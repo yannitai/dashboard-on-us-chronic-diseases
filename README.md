@@ -34,6 +34,11 @@ The dataset spans various dimensions of chronic diseases, including:
 This dashboard is built on Google Cloud Platform (GCP) utilizing the following technologies:
 - **Plotly Dash**: A Python framework for building reactive web-applications.
 - **GCP Services**
+
+## Demo
+https://github.com/yannitai/dashboard-on-us-chronic-diseases/assets/157058594/edccfc40-302f-4add-b7b9-8e17e0cf62c7
+
+
   
 
 
