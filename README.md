@@ -1,4 +1,4 @@
-# Dashboard-on-US-Chronic-Diseases
+# Dashboard on US Chronic Diseases
 
 ## Overview
 This dashboard provides an in-depth analysis of chronic disease data in the United States from 2001 to 2021. Created using the Plotly Dash library, it presents an interactive way to explore trends and details within a dataset comprising 804,578 rows and 20 columns.
